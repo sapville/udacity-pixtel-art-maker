@@ -1,3 +1,7 @@
+function main() {
+  console.log('main is called');
+}
+
 // Select color input
 // Select size input
 
@@ -5,6 +9,6 @@
 
 function makeGrid() {
 
-// Your code goes here!
+  // Your code goes here!
 
 }
